@@ -1,0 +1,37 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.nbconvert/
+*.nbconvert.ipynb
+*.nbparams
+*.nbhtml
+*.nbpynb
+*.ipynb_metada
+*.nbmeta
+
+# R
+.Rproj.user/
+*.Rhistory
+*.RData
+*.Rproj*
+*.log
+.RData
+.Rproj.user
+*.Renviron
+.Rproj.user/
+*.rdb
+*.Rcheck/
+.Rcache/
+
+# JetBrains
+.idea/
