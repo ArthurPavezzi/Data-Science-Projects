@@ -1,6 +1,6 @@
 # Análise de uma Matriz de Insumo-Produto Brasileira
 
-Análise intersetorial simples de uma Matriz Insumo-Produto de Leontieff [retirada do IBGE](https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9085-matriz-de-insumo-produto.html).
+Análise intersetorial em Python de uma Matriz Insumo-Produto de Leontieff [retirada do IBGE](https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9085-matriz-de-insumo-produto.html) da economia brasileira em 2015.
 
 
 ## Referências
